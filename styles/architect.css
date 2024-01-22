@@ -231,8 +231,8 @@ footer .rights {
     height: 80px;
     border-radius: 8px;
     background: #FFF4E7;
-    padding-top: 50px;
-    padding-bottom: 40px;
+    padding-top: 60px;
+    padding-bottom: 20px;
     color: #424242;
     font-size: 1.2rem;
 }
@@ -273,11 +273,14 @@ footer .rights {
 
     .features-img img {
         width: 100%;
+        margin: 0;
     }
 
     .ten-years-badge {
         width: 40%;
         height: 20%;
+        padding: 20px;
+
 
     }
 
@@ -286,9 +289,14 @@ footer .rights {
         margin: 0;
 
     }
+    .ten-years-badge p{
+        font-size: 1rem;
+    }
     footer .rights{
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+        
+        font-size: 1rem;
     }
 
 }
