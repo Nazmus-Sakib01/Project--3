@@ -232,6 +232,7 @@ footer .rights {
     border-radius: 8px;
     background: #FFF4E7;
     padding-top: 50px;
+    padding-bottom: 40px;
     color: #424242;
     font-size: 1.2rem;
 }
@@ -286,8 +287,8 @@ footer .rights {
 
     }
     footer .rights{
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
 }
